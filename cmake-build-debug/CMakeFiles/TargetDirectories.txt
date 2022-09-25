@@ -1,0 +1,3 @@
+C:/Users/nlalt/Documents/School/2022fall/dataStructureAndAlgorithms/project2/cmake-build-debug/CMakeFiles/project2_.dir
+C:/Users/nlalt/Documents/School/2022fall/dataStructureAndAlgorithms/project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nlalt/Documents/School/2022fall/dataStructureAndAlgorithms/project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
